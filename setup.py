@@ -4,7 +4,7 @@ from os import path
 from setuptools import setup
 
 
-version = '1.2.10'
+version = '1.3.0'
 
 classifiers = [
     "Development Status :: 5 - Production/Stable",
